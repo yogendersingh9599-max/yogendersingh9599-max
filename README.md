@@ -1,4 +1,4 @@
-## 👋 Welcome to My GProfile!
+## 👋 Welcome to My Profile!
 
 I’m Yogender Singh, an aspiring **Data Analyst** with a strong foundation in **Excel, SQL, Power BI, and Python (basics)**. I enjoy working with data to uncover insights, solve problems, and support better business decisions.
 
