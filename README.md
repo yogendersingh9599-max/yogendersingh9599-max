@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Welcome to My GProfile!
 
-<!--
-**yogendersingh9599-max/yogendersingh9599-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Yogender Singh, an aspiring **Data Analyst** with a strong foundation in **Excel, SQL, Power BI, and Python (basics)**. I enjoy working with data to uncover insights, solve problems, and support better business decisions.
 
-Here are some ideas to get you started:
+### 🔍 What you'll find here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Data analytics projects (Excel, SQL, Power BI)
+📊 Dashboards and data visualization work
+📚 Practice files and real-world datasets
+💡 Insights and learnings from my analytics journey
+
+### 🌱 Currently Growing In:
+
+* Data cleaning & transformation
+* Dashboard storytelling
+* SQL problem-solving
+* Business understanding with data
+
+I believe data is not just numbers—it tells a story. My goal is to turn raw data into meaningful insights that drive decisions.
+
+Let’s connect, learn, and grow together in the world of data! 🚀
